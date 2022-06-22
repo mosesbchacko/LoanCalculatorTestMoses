@@ -145,7 +145,7 @@ const LoanCalculatorForm = ({ onSubmit, onReset }: LoanCalculatorFormProps) => {
                 isLoading={isSubmitting}
                 loadingText="Calculating"
               >
-                Calculateeeeee
+                Calculate
               </Button>
             )}
           </Box>
